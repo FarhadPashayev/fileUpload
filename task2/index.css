@@ -7,7 +7,7 @@
 #background{
     width: 100%;
     height: 1000px;
-    background-image: linear-gradient(to bottom right, rgb(255,157,170), rgb(232,96,254));
+    background-image: linear-gradient(to bottom right, rgb(75, 33, 38), rgb(34, 212, 200));
     padding-top: 50px;
     display: flex;
     justify-content: center;
@@ -48,11 +48,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-left: 30px;
     
 }
 #name{
     font-size: 30px;
     font-weight: bold;
+    
 }
 #username{
     color: rgb(137, 134, 134);
